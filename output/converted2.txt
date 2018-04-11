@@ -1,0 +1,15 @@
+original   >> dst next time first howa chai!!!!
+banglish   >> dOst next time first hoWoa chai!!!!
+translated >> দোস্ত next time first হওয়া ছাই!!!!
+engDirect  >> DST Next Time Want To Get Started !!!!
+english    >> I want to be next time first !!!!
+wordByWord >> My friend Next Time First To be Ash !!!!
+
+
+original   >> frst k hoise?banglish   >> frst ke hoise?
+translated >> ফ্রস্ত কে হইসে?
+engDirect  >> What is the first time?
+english    >> Who is Frost?
+wordByWord >> Frustrated Who Are you?
+
+
