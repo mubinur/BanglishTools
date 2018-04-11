@@ -5,10 +5,10 @@ I have used Avro to translate from Banglish phonetic to Bangla excluding English
 
 For example: 
 
-original   >> Ki kore booking dete hoy
-banglish   >> ki kore booking dite hoy
-translated >> কি করে booking দিতে হয়
-english    >> How to make a booking
+original   >> Ki kore booking dete hoy\n
+banglish   >> ki kore booking dite hoy\n
+translated >> কি করে booking দিতে হয়\n
+english    >> How to make a booking\n
 
 
 As of write now there is no other tool on the internet to translate this sort of badly formated banglish text to Bangla. 
