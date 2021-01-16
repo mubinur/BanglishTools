@@ -15,8 +15,6 @@ english    >> How to make a booking
 
 
 As of write now there is no other tool on the internet to translate this sort of badly formated banglish text to Bangla. 
-I will work on it further to fix all the issues and make it more accurate. 
-
 
 
 Known Issues: 
